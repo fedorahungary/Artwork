@@ -1,4 +1,5 @@
 # Artwork
-Magyar artwork poló bögre és társaihoz
 
-Zanata logo: You can find our guidelines of color code and schema is in http://assets-zanata.rhcloud.com/master/styleguide.
+- Magyar Fedora artwork poló bögréhez és társaihoz
+- Banner-Hungary: Asztalterítő
+- Zanata logo színkikötések: You can find our guidelines of color code and schema is in http://assets-zanata.rhcloud.com/master/styleguide.
